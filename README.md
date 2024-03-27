@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @londhea Akshay Londhe
-- 👀 I’m interested in Java, Spring Boot
-- 🌱 I’m currently learning Angular 
+- 👀 I’m interested in Java, Spring Boot, Rest API and Angular
+- 🌱 I’m currently learning Spring Microservices
 - 📫 You can reach me through email akshaycbhi2021@gmail.com
 
 <!---
